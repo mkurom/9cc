@@ -1,2 +1,4 @@
 # 9cc
-compilerbook 実行
+compilerbookの実行repo
+
+https://www.sigbus.info/compilerbook
